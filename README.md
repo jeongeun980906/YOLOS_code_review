@@ -26,6 +26,7 @@ The code is from this paper.
 }
 ```
 
+
 ## You Only Look at One Sequence (YOLOS)
 
 ### The Illustration of YOLOS
