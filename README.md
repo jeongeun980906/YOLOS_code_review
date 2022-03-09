@@ -1,8 +1,8 @@
 
 # You Only One Sequence
 
-## YOLOS
-This project is based on YOLOS ([paper](https://arxiv.org/abs/2106.00666), [code](https://github.com/hustvl/YOLOS). Thanks for their wonderful works.
+## YOLOS code review
+This project is based on YOLOS ([paper](https://arxiv.org/abs/2106.00666), [code](https://github.com/hustvl/YOLOS). 
 
 > [**You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection**](https://arxiv.org/abs/2106.00666)
 >
@@ -226,4 +226,6 @@ python cocoval_gtclsjson_generation.py --coco_path /path/to/coco --batch_size 1 
 ![Det-Tok-41](visualization/exp/Det-Tok-41/Det-Tok-41_attn.png)
 ![Det-Tok-96](visualization/exp/Det-Tok-96/Det-Tok-96_attn.png)
 
-
+## Acknowledgement
+This project is based on DETR ([paper](https://arxiv.org/abs/2005.12872), [code](https://github.com/facebookresearch/detr)), DeiT ([paper](https://arxiv.org/abs/2012.12877), [code](https://github.com/facebookresearch/deit)), DINO ([paper](https://arxiv.org/abs/2104.14294), [code](https://github.com/facebookresearch/dino)) and [timm](https://github.com/rwightman/pytorch-image-models). 
+Thanks for their wonderful works.
