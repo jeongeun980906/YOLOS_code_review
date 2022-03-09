@@ -1,5 +1,5 @@
 
-# You Only One Sequence
+# You Only Look at One Sequence
 
 ## YOLOS code review
 This project is based on YOLOS ([paper](https://arxiv.org/abs/2106.00666), [code](https://github.com/hustvl/YOLOS). 
