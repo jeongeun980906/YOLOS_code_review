@@ -2,7 +2,7 @@
 # You Only Look at One Sequence
 
 ## YOLOS code review
-This project is based on YOLOS ([paper](https://arxiv.org/abs/2106.00666), [code](https://github.com/hustvl/YOLOS). 
+This project is based on YOLOS ([paper](https://arxiv.org/abs/2106.00666), [code](https://github.com/hustvl/YOLOS)). 
 
 > [**You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection**](https://arxiv.org/abs/2106.00666)
 >
@@ -15,7 +15,7 @@ This project is based on YOLOS ([paper](https://arxiv.org/abs/2106.00666), [code
 
 ## Citation
 
-The code is from this paper. 
+The code is from this paper. Please cite this paper.
 
 ```BibTeX
 @article{YOLOS,
